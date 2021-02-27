@@ -1,11 +1,11 @@
 # City Planners
 A menifesto to get architechts from around the world to collaborate on open sourced cities
 
-## What
+## What?
 
 Idea here is to create a community of architechts and planners to help build cities around the world. And people can get their design for current city reviewed and improved upon. 
 
-## Why
+## Why?
 
 I think many cities in the world are poorely designed / architected. This community can be used to bounce off ideas of what could be done around them.
 
