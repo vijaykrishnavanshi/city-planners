@@ -16,6 +16,4 @@ This will be volunteer driven organisation mainly. All the individuals are free 
 ## Team
 
 Every great initiative needs people that are aligned in terms of motivation. So this will be list of all the people that have or are contributing this project. (Sorted alphabetically)
-
-* Vijay
 * add your self here
