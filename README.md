@@ -15,5 +15,4 @@ This will be volunteer driven organisation mainly. All the individuals are free 
 
 ## Team
 
-Every great initiative needs people that are aligned in terms of motivation. So this will be list of all the people that have or are contributing this project. (Sorted alphabetically)
-* add your self here
+Every great initiative needs people that are aligned in terms of motivation. Fill this form to be part of this initiative: https://forms.gle/ZnGavhbeWgH8jXJj8
